@@ -1,0 +1,1250 @@
+fileFormatVersion: 2
+guid: d495af4799b4a924d8f46287db90e5c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2205901462931847613
+    second: 10_Birthday_party_32x32_0
+  - first:
+      213: 5007786824619827270
+    second: 10_Birthday_party_32x32_1
+  - first:
+      213: 1724329470331128673
+    second: 10_Birthday_party_32x32_2
+  - first:
+      213: 283548870345964469
+    second: 10_Birthday_party_32x32_3
+  - first:
+      213: 7751719535828474435
+    second: 10_Birthday_party_32x32_4
+  - first:
+      213: -3172873363599131817
+    second: 10_Birthday_party_32x32_5
+  - first:
+      213: -3847830820433270422
+    second: 10_Birthday_party_32x32_6
+  - first:
+      213: 3466257779695092406
+    second: 10_Birthday_party_32x32_7
+  - first:
+      213: 8201253296404575689
+    second: 10_Birthday_party_32x32_8
+  - first:
+      213: -4560624142322720136
+    second: 10_Birthday_party_32x32_9
+  - first:
+      213: 8637497540027246678
+    second: 10_Birthday_party_32x32_10
+  - first:
+      213: -22679939853450109
+    second: 10_Birthday_party_32x32_11
+  - first:
+      213: 5219868439899500295
+    second: 10_Birthday_party_32x32_12
+  - first:
+      213: 365108127003862824
+    second: 10_Birthday_party_32x32_13
+  - first:
+      213: -7845801812889990005
+    second: 10_Birthday_party_32x32_14
+  - first:
+      213: 5130342659004979638
+    second: 10_Birthday_party_32x32_15
+  - first:
+      213: 6591617107156015394
+    second: 10_Birthday_party_32x32_16
+  - first:
+      213: 2984877203883890782
+    second: 10_Birthday_party_32x32_17
+  - first:
+      213: 4055920726135624739
+    second: 10_Birthday_party_32x32_18
+  - first:
+      213: 105408686456063984
+    second: 10_Birthday_party_32x32_19
+  - first:
+      213: -3101159651752730389
+    second: 10_Birthday_party_32x32_20
+  - first:
+      213: 6151577338619320484
+    second: 10_Birthday_party_32x32_21
+  - first:
+      213: 8214171509915502649
+    second: 10_Birthday_party_32x32_22
+  - first:
+      213: -4443944316477551637
+    second: 10_Birthday_party_32x32_23
+  - first:
+      213: 6096731324589263479
+    second: 10_Birthday_party_32x32_24
+  - first:
+      213: 8538018632907326778
+    second: 10_Birthday_party_32x32_25
+  - first:
+      213: 6736301821113128099
+    second: 10_Birthday_party_32x32_26
+  - first:
+      213: -4736976604381456005
+    second: 10_Birthday_party_32x32_27
+  - first:
+      213: 497829154471898789
+    second: 10_Birthday_party_32x32_28
+  - first:
+      213: -3683088666253881901
+    second: 10_Birthday_party_32x32_29
+  - first:
+      213: 1840875684819465214
+    second: 10_Birthday_party_32x32_30
+  - first:
+      213: -7236187410741845286
+    second: 10_Birthday_party_32x32_31
+  - first:
+      213: -2086956613842392731
+    second: 10_Birthday_party_32x32_32
+  - first:
+      213: 3248430682118840134
+    second: 10_Birthday_party_32x32_33
+  - first:
+      213: -664015133837932410
+    second: 10_Birthday_party_32x32_34
+  - first:
+      213: 6364343454445223808
+    second: 10_Birthday_party_32x32_35
+  - first:
+      213: 7646786183594031159
+    second: 10_Birthday_party_32x32_36
+  - first:
+      213: -6844661979251163995
+    second: 10_Birthday_party_32x32_37
+  - first:
+      213: 4180820724733795780
+    second: 10_Birthday_party_32x32_38
+  - first:
+      213: -8826555725025308008
+    second: 10_Birthday_party_32x32_39
+  - first:
+      213: 2384890496338081918
+    second: 10_Birthday_party_32x32_40
+  - first:
+      213: -2721946197690822912
+    second: 10_Birthday_party_32x32_41
+  - first:
+      213: 3404740959592366134
+    second: 10_Birthday_party_32x32_0
+  - first:
+      213: -1697970953241272902
+    second: 10_Birthday_party_32x32_1
+  - first:
+      213: -3069703992527220528
+    second: 10_Birthday_party_32x32_2
+  - first:
+      213: 3172681904435840099
+    second: 10_Birthday_party_32x32_3
+  - first:
+      213: -4132309097373313678
+    second: 10_Birthday_party_32x32_4
+  - first:
+      213: -8666530636027529739
+    second: 10_Birthday_party_32x32_5
+  - first:
+      213: 2925184990568071634
+    second: 10_Birthday_party_32x32_6
+  - first:
+      213: 3464078975434884357
+    second: 10_Birthday_party_32x32_7
+  - first:
+      213: -7323828854486229258
+    second: 10_Birthday_party_32x32_8
+  - first:
+      213: -8746485229988274298
+    second: 10_Birthday_party_32x32_9
+  - first:
+      213: -6168377620113577250
+    second: 10_Birthday_party_32x32_10
+  - first:
+      213: -6922614996244442748
+    second: 10_Birthday_party_32x32_11
+  - first:
+      213: -2795582808661056735
+    second: 10_Birthday_party_32x32_12
+  - first:
+      213: 5122810418182004452
+    second: 10_Birthday_party_32x32_13
+  - first:
+      213: 3604137377410535058
+    second: 10_Birthday_party_32x32_14
+  - first:
+      213: -2391174075769241674
+    second: 10_Birthday_party_32x32_15
+  - first:
+      213: 3526950914524328996
+    second: 10_Birthday_party_32x32_16
+  - first:
+      213: 4226120368568673104
+    second: 10_Birthday_party_32x32_17
+  - first:
+      213: -115420578724928383
+    second: 10_Birthday_party_32x32_18
+  - first:
+      213: 8413143411838510223
+    second: 10_Birthday_party_32x32_19
+  - first:
+      213: 3551813398284851641
+    second: 10_Birthday_party_32x32_20
+  - first:
+      213: 2728285457608455978
+    second: 10_Birthday_party_32x32_21
+  - first:
+      213: -8314375595684589858
+    second: 10_Birthday_party_32x32_22
+  - first:
+      213: 1028226231291931991
+    second: 10_Birthday_party_32x32_23
+  - first:
+      213: -7007013115465109209
+    second: 10_Birthday_party_32x32_24
+  - first:
+      213: 5919102330411282159
+    second: 10_Birthday_party_32x32_25
+  - first:
+      213: -1862469612209170450
+    second: 10_Birthday_party_32x32_26
+  - first:
+      213: 6428606111267079948
+    second: 10_Birthday_party_32x32_27
+  - first:
+      213: 4053270996203633207
+    second: 10_Birthday_party_32x32_28
+  - first:
+      213: -2214647576672485576
+    second: 10_Birthday_party_32x32_29
+  - first:
+      213: -1043041527331204216
+    second: 10_Birthday_party_32x32_30
+  - first:
+      213: -3169185515301382363
+    second: 10_Birthday_party_32x32_31
+  - first:
+      213: 1733588899656104717
+    second: 10_Birthday_party_32x32_32
+  - first:
+      213: -4409302714160753828
+    second: 10_Birthday_party_32x32_33
+  - first:
+      213: 3122879877593999219
+    second: 10_Birthday_party_32x32_34
+  - first:
+      213: 8515315197410053706
+    second: 10_Birthday_party_32x32_35
+  - first:
+      213: 8621200513627798819
+    second: 10_Birthday_party_32x32_36
+  - first:
+      213: -4587311667045017907
+    second: 10_Birthday_party_32x32_37
+  - first:
+      213: -4096983476575901236
+    second: 10_Birthday_party_32x32_38
+  - first:
+      213: 7203141236036277527
+    second: 10_Birthday_party_32x32_39
+  - first:
+      213: 7722876827502920188
+    second: 10_Birthday_party_32x32_40
+  - first:
+      213: -8926994538760181207
+    second: 10_Birthday_party_32x32_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630c9b81dd1104f20800000000000000
+      internalID: 3404740959592366134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd5f1d0a689f68e0800000000000000
+      internalID: -1697970953241272902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d011d79b783665d0800000000000000
+      internalID: -3069703992527220528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364453be161a70c20800000000000000
+      internalID: 3172681904435840099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275d2f415c617a6c0800000000000000
+      internalID: -4132309097373313678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5f984cd4c4ab780800000000000000
+      internalID: -8666530636027529739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d14d192048589820800000000000000
+      internalID: 2925184990568071634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50502b48971e21030800000000000000
+      internalID: 3464078975434884357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe979cc5788c5a90800000000000000
+      internalID: -7323828854486229258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f1951360e3e9680800000000000000
+      internalID: -8746485229988274298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda29a86c35856aa0800000000000000
+      internalID: -6168377620113577250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481de08a65eedef90800000000000000
+      internalID: -6922614996244442748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123a1954f381439d0800000000000000
+      internalID: -2795582808661056735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee986bfee0e71740800000000000000
+      internalID: 5122810418182004452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e434669d7740230800000000000000
+      internalID: 3604137377410535058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfb6a9d8d7d0ded0800000000000000
+      internalID: -2391174075769241674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42436709b2f32f030800000000000000
+      internalID: 3526950914524328996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0532492951236aa30800000000000000
+      internalID: 4226120368568673104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184a45d5891f56ef0800000000000000
+      internalID: -115420578724928383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f846d0bbb5d71c470800000000000000
+      internalID: 8413143411838510223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9dd39a7739a4130800000000000000
+      internalID: 3551813398284851641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27bd9a2b21dcd520800000000000000
+      internalID: 2728285457608455978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede0b0a72776d9c80800000000000000
+      internalID: -8314375595684589858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75de4e04f4ef44e00800000000000000
+      internalID: 1028226231291931991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721f23c32b612ce90800000000000000
+      internalID: -7007013115465109209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feee9517530e42250800000000000000
+      internalID: 5919102330411282159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7105761cd2726e0800000000000000
+      internalID: -1862469612209170450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07cafea23ff63950800000000000000
+      internalID: 6428606111267079948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a7c13fe7c104830800000000000000
+      internalID: 4053270996203633207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fb1c143cdf341e0800000000000000
+      internalID: -2214647576672485576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8835175d14f5681f0800000000000000
+      internalID: -1043041527331204216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527d52d909ac404d0800000000000000
+      internalID: -3169185515301382363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bff865be1fe0810800000000000000
+      internalID: 1733588899656104717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53584ffa820fc2c0800000000000000
+      internalID: -4409302714160753828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377a434f3b2b65b20800000000000000
+      internalID: 3122879877593999219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e8c145e0a7c2670800000000000000
+      internalID: 8515315197410053706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d3338a038a4a770800000000000000
+      internalID: 8621200513627798819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6d6cbe7589650c0800000000000000
+      internalID: -4587311667045017907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_38
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc96c0c1c379427c0800000000000000
+      internalID: -4096983476575901236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71519e05ac2b6f360800000000000000
+      internalID: 7203141236036277527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1486b9e8b2d2b60800000000000000
+      internalID: 7722876827502920188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Birthday_party_32x32_41
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ae855a3c1fc1480800000000000000
+      internalID: -8926994538760181207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

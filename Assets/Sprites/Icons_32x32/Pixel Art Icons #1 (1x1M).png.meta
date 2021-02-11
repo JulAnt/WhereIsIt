@@ -1,0 +1,7652 @@
+fileFormatVersion: 2
+guid: 6a1a2123492fb41c2be1aca6ea2ccddc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4082814633200046907
+    second: Pixel Art Icons #1 (1x1M)_0
+  - first:
+      213: -1823032337451627166
+    second: Pixel Art Icons #1 (1x1M)_1
+  - first:
+      213: -4638957789612918558
+    second: Pixel Art Icons #1 (1x1M)_2
+  - first:
+      213: 3016792678419862177
+    second: Pixel Art Icons #1 (1x1M)_3
+  - first:
+      213: 6106296220358012378
+    second: Pixel Art Icons #1 (1x1M)_4
+  - first:
+      213: 2724891288004219104
+    second: Pixel Art Icons #1 (1x1M)_5
+  - first:
+      213: -3629842426106203642
+    second: Pixel Art Icons #1 (1x1M)_6
+  - first:
+      213: -4068733975835754908
+    second: Pixel Art Icons #1 (1x1M)_7
+  - first:
+      213: 1885501252674147147
+    second: Pixel Art Icons #1 (1x1M)_8
+  - first:
+      213: 6612399912805802201
+    second: Pixel Art Icons #1 (1x1M)_9
+  - first:
+      213: -3893328861418142508
+    second: Pixel Art Icons #1 (1x1M)_10
+  - first:
+      213: -5233471294068026400
+    second: Pixel Art Icons #1 (1x1M)_11
+  - first:
+      213: 6800195357192554981
+    second: Pixel Art Icons #1 (1x1M)_12
+  - first:
+      213: -4496514990171783161
+    second: Pixel Art Icons #1 (1x1M)_13
+  - first:
+      213: -434533481945949421
+    second: Pixel Art Icons #1 (1x1M)_14
+  - first:
+      213: 2426289981685846836
+    second: Pixel Art Icons #1 (1x1M)_15
+  - first:
+      213: -3734808175855724470
+    second: Pixel Art Icons #1 (1x1M)_16
+  - first:
+      213: 8368911282663092733
+    second: Pixel Art Icons #1 (1x1M)_17
+  - first:
+      213: -4067225865541472175
+    second: Pixel Art Icons #1 (1x1M)_18
+  - first:
+      213: 5408139804329297301
+    second: Pixel Art Icons #1 (1x1M)_19
+  - first:
+      213: -7908000050973007935
+    second: Pixel Art Icons #1 (1x1M)_20
+  - first:
+      213: 423228373427977682
+    second: Pixel Art Icons #1 (1x1M)_21
+  - first:
+      213: -4855626954324029468
+    second: Pixel Art Icons #1 (1x1M)_22
+  - first:
+      213: -5972352752334918324
+    second: Pixel Art Icons #1 (1x1M)_23
+  - first:
+      213: -112376226619721797
+    second: Pixel Art Icons #1 (1x1M)_24
+  - first:
+      213: -7761486137029983499
+    second: Pixel Art Icons #1 (1x1M)_25
+  - first:
+      213: 2819744571894333016
+    second: Pixel Art Icons #1 (1x1M)_26
+  - first:
+      213: 4841810123727283387
+    second: Pixel Art Icons #1 (1x1M)_27
+  - first:
+      213: 535851167598148240
+    second: Pixel Art Icons #1 (1x1M)_28
+  - first:
+      213: 6300790841325699608
+    second: Pixel Art Icons #1 (1x1M)_29
+  - first:
+      213: 2684594742374103449
+    second: Pixel Art Icons #1 (1x1M)_30
+  - first:
+      213: -6447545827383499886
+    second: Pixel Art Icons #1 (1x1M)_31
+  - first:
+      213: -6684269705955119026
+    second: Pixel Art Icons #1 (1x1M)_32
+  - first:
+      213: -5190455959681805317
+    second: Pixel Art Icons #1 (1x1M)_33
+  - first:
+      213: -8863263624978486673
+    second: Pixel Art Icons #1 (1x1M)_34
+  - first:
+      213: 4590914237773531437
+    second: Pixel Art Icons #1 (1x1M)_35
+  - first:
+      213: 5814582210820506456
+    second: Pixel Art Icons #1 (1x1M)_36
+  - first:
+      213: 6278299052030058466
+    second: Pixel Art Icons #1 (1x1M)_37
+  - first:
+      213: -8681648271161566819
+    second: Pixel Art Icons #1 (1x1M)_38
+  - first:
+      213: -5297453445491183578
+    second: Pixel Art Icons #1 (1x1M)_39
+  - first:
+      213: 6301514047588687350
+    second: Pixel Art Icons #1 (1x1M)_40
+  - first:
+      213: -6181318826476156770
+    second: Pixel Art Icons #1 (1x1M)_41
+  - first:
+      213: 6866602025938453412
+    second: Pixel Art Icons #1 (1x1M)_42
+  - first:
+      213: -3079187069610355183
+    second: Pixel Art Icons #1 (1x1M)_43
+  - first:
+      213: -3882347233642744722
+    second: Pixel Art Icons #1 (1x1M)_44
+  - first:
+      213: -1910886722838122200
+    second: Pixel Art Icons #1 (1x1M)_45
+  - first:
+      213: 4608583618379933639
+    second: Pixel Art Icons #1 (1x1M)_46
+  - first:
+      213: -401757083512298031
+    second: Pixel Art Icons #1 (1x1M)_47
+  - first:
+      213: 7434904813023052991
+    second: Pixel Art Icons #1 (1x1M)_48
+  - first:
+      213: 6353505191703929668
+    second: Pixel Art Icons #1 (1x1M)_49
+  - first:
+      213: -3065010155502297118
+    second: Pixel Art Icons #1 (1x1M)_50
+  - first:
+      213: -3765640706791549733
+    second: Pixel Art Icons #1 (1x1M)_51
+  - first:
+      213: 3401076989158511266
+    second: Pixel Art Icons #1 (1x1M)_52
+  - first:
+      213: -2708904942673780938
+    second: Pixel Art Icons #1 (1x1M)_53
+  - first:
+      213: 610643295155264446
+    second: Pixel Art Icons #1 (1x1M)_54
+  - first:
+      213: 4197598158286633164
+    second: Pixel Art Icons #1 (1x1M)_55
+  - first:
+      213: -6936894692338947365
+    second: Pixel Art Icons #1 (1x1M)_56
+  - first:
+      213: 1302834410788360494
+    second: Pixel Art Icons #1 (1x1M)_57
+  - first:
+      213: -7393777295273004296
+    second: Pixel Art Icons #1 (1x1M)_58
+  - first:
+      213: -3517246064234338693
+    second: Pixel Art Icons #1 (1x1M)_59
+  - first:
+      213: 4449395030492544849
+    second: Pixel Art Icons #1 (1x1M)_60
+  - first:
+      213: 4268909557838142060
+    second: Pixel Art Icons #1 (1x1M)_61
+  - first:
+      213: 7265996443765720320
+    second: Pixel Art Icons #1 (1x1M)_62
+  - first:
+      213: -5519413796352294662
+    second: Pixel Art Icons #1 (1x1M)_63
+  - first:
+      213: 2131443019660390175
+    second: Pixel Art Icons #1 (1x1M)_64
+  - first:
+      213: -2665731155777952631
+    second: Pixel Art Icons #1 (1x1M)_65
+  - first:
+      213: 8309597920556189647
+    second: Pixel Art Icons #1 (1x1M)_66
+  - first:
+      213: -360897262547788994
+    second: Pixel Art Icons #1 (1x1M)_67
+  - first:
+      213: -8451579263822165160
+    second: Pixel Art Icons #1 (1x1M)_68
+  - first:
+      213: 7189453352067723825
+    second: Pixel Art Icons #1 (1x1M)_69
+  - first:
+      213: 6933559051383738957
+    second: Pixel Art Icons #1 (1x1M)_70
+  - first:
+      213: 6271298106368615536
+    second: Pixel Art Icons #1 (1x1M)_71
+  - first:
+      213: 3962718381544872017
+    second: Pixel Art Icons #1 (1x1M)_72
+  - first:
+      213: -1201311634190001582
+    second: Pixel Art Icons #1 (1x1M)_73
+  - first:
+      213: 4670170916222342826
+    second: Pixel Art Icons #1 (1x1M)_74
+  - first:
+      213: 3730337283845853255
+    second: Pixel Art Icons #1 (1x1M)_75
+  - first:
+      213: -3539707720214768819
+    second: Pixel Art Icons #1 (1x1M)_76
+  - first:
+      213: 4711942118332084758
+    second: Pixel Art Icons #1 (1x1M)_77
+  - first:
+      213: 1198332906697158011
+    second: Pixel Art Icons #1 (1x1M)_78
+  - first:
+      213: -6728988570076591714
+    second: Pixel Art Icons #1 (1x1M)_79
+  - first:
+      213: -875764240889409698
+    second: Pixel Art Icons #1 (1x1M)_80
+  - first:
+      213: 775832082996709109
+    second: Pixel Art Icons #1 (1x1M)_81
+  - first:
+      213: 6009235457746082496
+    second: Pixel Art Icons #1 (1x1M)_82
+  - first:
+      213: 6999252428976227135
+    second: Pixel Art Icons #1 (1x1M)_83
+  - first:
+      213: 4153729125696445283
+    second: Pixel Art Icons #1 (1x1M)_84
+  - first:
+      213: -3871744035971865182
+    second: Pixel Art Icons #1 (1x1M)_85
+  - first:
+      213: -5895456534828472143
+    second: Pixel Art Icons #1 (1x1M)_86
+  - first:
+      213: -3408499349124905545
+    second: Pixel Art Icons #1 (1x1M)_87
+  - first:
+      213: 4938213295408738286
+    second: Pixel Art Icons #1 (1x1M)_88
+  - first:
+      213: -4176392247378371189
+    second: Pixel Art Icons #1 (1x1M)_89
+  - first:
+      213: 9098040203471056226
+    second: Pixel Art Icons #1 (1x1M)_90
+  - first:
+      213: 448248701833701381
+    second: Pixel Art Icons #1 (1x1M)_91
+  - first:
+      213: 2283022529708449673
+    second: Pixel Art Icons #1 (1x1M)_92
+  - first:
+      213: 5851930028868395825
+    second: Pixel Art Icons #1 (1x1M)_93
+  - first:
+      213: 7445595686903114488
+    second: Pixel Art Icons #1 (1x1M)_94
+  - first:
+      213: -3561248168184729981
+    second: Pixel Art Icons #1 (1x1M)_95
+  - first:
+      213: -4619106911366155705
+    second: Pixel Art Icons #1 (1x1M)_96
+  - first:
+      213: -213838534610580418
+    second: Pixel Art Icons #1 (1x1M)_97
+  - first:
+      213: -5174441664586848101
+    second: Pixel Art Icons #1 (1x1M)_98
+  - first:
+      213: 3212445858043365794
+    second: Pixel Art Icons #1 (1x1M)_99
+  - first:
+      213: -1314775482023020733
+    second: Pixel Art Icons #1 (1x1M)_100
+  - first:
+      213: 7891958151993926629
+    second: Pixel Art Icons #1 (1x1M)_101
+  - first:
+      213: 2030016961301335936
+    second: Pixel Art Icons #1 (1x1M)_102
+  - first:
+      213: -6658449093116149944
+    second: Pixel Art Icons #1 (1x1M)_103
+  - first:
+      213: -4357900184743404029
+    second: Pixel Art Icons #1 (1x1M)_104
+  - first:
+      213: 4946850466068649142
+    second: Pixel Art Icons #1 (1x1M)_105
+  - first:
+      213: 2846787957931764019
+    second: Pixel Art Icons #1 (1x1M)_106
+  - first:
+      213: 5068045962717818932
+    second: Pixel Art Icons #1 (1x1M)_107
+  - first:
+      213: -2339984544039891629
+    second: Pixel Art Icons #1 (1x1M)_108
+  - first:
+      213: 2529171489050266249
+    second: Pixel Art Icons #1 (1x1M)_109
+  - first:
+      213: 4057330137389839630
+    second: Pixel Art Icons #1 (1x1M)_110
+  - first:
+      213: -1587037715751334776
+    second: Pixel Art Icons #1 (1x1M)_111
+  - first:
+      213: 3384475496235568691
+    second: Pixel Art Icons #1 (1x1M)_112
+  - first:
+      213: -4592726544210555317
+    second: Pixel Art Icons #1 (1x1M)_113
+  - first:
+      213: -7657337964099818353
+    second: Pixel Art Icons #1 (1x1M)_114
+  - first:
+      213: 7709437631511798167
+    second: Pixel Art Icons #1 (1x1M)_115
+  - first:
+      213: 1270994190306331391
+    second: Pixel Art Icons #1 (1x1M)_116
+  - first:
+      213: -8771046155803490282
+    second: Pixel Art Icons #1 (1x1M)_117
+  - first:
+      213: 1777572500069219067
+    second: Pixel Art Icons #1 (1x1M)_118
+  - first:
+      213: -6277793994311713171
+    second: Pixel Art Icons #1 (1x1M)_119
+  - first:
+      213: -6658881055477619661
+    second: Pixel Art Icons #1 (1x1M)_120
+  - first:
+      213: -5679904158072283885
+    second: Pixel Art Icons #1 (1x1M)_121
+  - first:
+      213: -4987997272067571280
+    second: Pixel Art Icons #1 (1x1M)_122
+  - first:
+      213: 3668209219664448460
+    second: Pixel Art Icons #1 (1x1M)_123
+  - first:
+      213: -6213670893632367324
+    second: Pixel Art Icons #1 (1x1M)_124
+  - first:
+      213: 2173213197705707627
+    second: Pixel Art Icons #1 (1x1M)_125
+  - first:
+      213: 2339199892964443506
+    second: Pixel Art Icons #1 (1x1M)_126
+  - first:
+      213: -1081510515380222497
+    second: Pixel Art Icons #1 (1x1M)_127
+  - first:
+      213: 1596724392538545391
+    second: Pixel Art Icons #1 (1x1M)_128
+  - first:
+      213: -4826710458427552780
+    second: Pixel Art Icons #1 (1x1M)_129
+  - first:
+      213: 5672961227202447816
+    second: Pixel Art Icons #1 (1x1M)_130
+  - first:
+      213: -3013607688685161970
+    second: Pixel Art Icons #1 (1x1M)_131
+  - first:
+      213: 4869418610451305781
+    second: Pixel Art Icons #1 (1x1M)_132
+  - first:
+      213: -5285014093799533041
+    second: Pixel Art Icons #1 (1x1M)_133
+  - first:
+      213: 504784102862960914
+    second: Pixel Art Icons #1 (1x1M)_134
+  - first:
+      213: -6133586971331962207
+    second: Pixel Art Icons #1 (1x1M)_135
+  - first:
+      213: 8820957835349033712
+    second: Pixel Art Icons #1 (1x1M)_136
+  - first:
+      213: -7017481216952331317
+    second: Pixel Art Icons #1 (1x1M)_137
+  - first:
+      213: -6629506018462126117
+    second: Pixel Art Icons #1 (1x1M)_138
+  - first:
+      213: 2927457791197022296
+    second: Pixel Art Icons #1 (1x1M)_139
+  - first:
+      213: 4511748337711380739
+    second: Pixel Art Icons #1 (1x1M)_140
+  - first:
+      213: 721742740220598631
+    second: Pixel Art Icons #1 (1x1M)_141
+  - first:
+      213: -5025271568819335452
+    second: Pixel Art Icons #1 (1x1M)_142
+  - first:
+      213: 3667435408568396135
+    second: Pixel Art Icons #1 (1x1M)_143
+  - first:
+      213: 1547952036884292164
+    second: Pixel Art Icons #1 (1x1M)_144
+  - first:
+      213: 5789401658151830767
+    second: Pixel Art Icons #1 (1x1M)_145
+  - first:
+      213: -1733348227560600603
+    second: Pixel Art Icons #1 (1x1M)_146
+  - first:
+      213: -9006600847993295830
+    second: Pixel Art Icons #1 (1x1M)_147
+  - first:
+      213: 8410943709205991301
+    second: Pixel Art Icons #1 (1x1M)_148
+  - first:
+      213: -4268437627398197008
+    second: Pixel Art Icons #1 (1x1M)_149
+  - first:
+      213: 8912913456481362527
+    second: Pixel Art Icons #1 (1x1M)_150
+  - first:
+      213: 5554098400342758878
+    second: Pixel Art Icons #1 (1x1M)_151
+  - first:
+      213: -4763379759115592607
+    second: Pixel Art Icons #1 (1x1M)_152
+  - first:
+      213: 1028217155062413377
+    second: Pixel Art Icons #1 (1x1M)_153
+  - first:
+      213: -1962232428998506842
+    second: Pixel Art Icons #1 (1x1M)_154
+  - first:
+      213: -1119457300265878236
+    second: Pixel Art Icons #1 (1x1M)_155
+  - first:
+      213: -4467536939683792432
+    second: Pixel Art Icons #1 (1x1M)_156
+  - first:
+      213: -2175680857270573155
+    second: Pixel Art Icons #1 (1x1M)_157
+  - first:
+      213: -3093854864087948053
+    second: Pixel Art Icons #1 (1x1M)_158
+  - first:
+      213: -9095020552537464841
+    second: Pixel Art Icons #1 (1x1M)_159
+  - first:
+      213: 4249133194828170997
+    second: Pixel Art Icons #1 (1x1M)_160
+  - first:
+      213: 6621084715511211465
+    second: Pixel Art Icons #1 (1x1M)_161
+  - first:
+      213: 8451948861786738177
+    second: Pixel Art Icons #1 (1x1M)_162
+  - first:
+      213: 3076841131497441782
+    second: Pixel Art Icons #1 (1x1M)_163
+  - first:
+      213: -486924412965878012
+    second: Pixel Art Icons #1 (1x1M)_164
+  - first:
+      213: -6874276626994105588
+    second: Pixel Art Icons #1 (1x1M)_165
+  - first:
+      213: -6553500965997190159
+    second: Pixel Art Icons #1 (1x1M)_166
+  - first:
+      213: -8263526471391357614
+    second: Pixel Art Icons #1 (1x1M)_167
+  - first:
+      213: -1706576461382410608
+    second: Pixel Art Icons #1 (1x1M)_168
+  - first:
+      213: -394019459546137232
+    second: Pixel Art Icons #1 (1x1M)_169
+  - first:
+      213: -4098156588285227679
+    second: Pixel Art Icons #1 (1x1M)_170
+  - first:
+      213: 6739530687044223697
+    second: Pixel Art Icons #1 (1x1M)_171
+  - first:
+      213: -6873852065571661463
+    second: Pixel Art Icons #1 (1x1M)_172
+  - first:
+      213: 5085188252707378955
+    second: Pixel Art Icons #1 (1x1M)_173
+  - first:
+      213: 3471798290497616634
+    second: Pixel Art Icons #1 (1x1M)_174
+  - first:
+      213: 4442223827477205569
+    second: Pixel Art Icons #1 (1x1M)_175
+  - first:
+      213: -2134288785917270368
+    second: Pixel Art Icons #1 (1x1M)_176
+  - first:
+      213: 7675552960160049001
+    second: Pixel Art Icons #1 (1x1M)_177
+  - first:
+      213: 7750958753704770404
+    second: Pixel Art Icons #1 (1x1M)_178
+  - first:
+      213: -665688759041618501
+    second: Pixel Art Icons #1 (1x1M)_179
+  - first:
+      213: -1610925311070241742
+    second: Pixel Art Icons #1 (1x1M)_180
+  - first:
+      213: -7947786451542170244
+    second: Pixel Art Icons #1 (1x1M)_181
+  - first:
+      213: -103349028169877965
+    second: Pixel Art Icons #1 (1x1M)_182
+  - first:
+      213: 1273884908106353925
+    second: Pixel Art Icons #1 (1x1M)_183
+  - first:
+      213: -716971360718818637
+    second: Pixel Art Icons #1 (1x1M)_184
+  - first:
+      213: 209191105590494767
+    second: Pixel Art Icons #1 (1x1M)_185
+  - first:
+      213: 4668924517252706093
+    second: Pixel Art Icons #1 (1x1M)_186
+  - first:
+      213: 4852308525477205563
+    second: Pixel Art Icons #1 (1x1M)_187
+  - first:
+      213: 2014358245881250905
+    second: Pixel Art Icons #1 (1x1M)_188
+  - first:
+      213: 2430757416567112139
+    second: Pixel Art Icons #1 (1x1M)_189
+  - first:
+      213: 5634989332614841499
+    second: Pixel Art Icons #1 (1x1M)_190
+  - first:
+      213: -8822737734302336058
+    second: Pixel Art Icons #1 (1x1M)_191
+  - first:
+      213: 2986776198016799499
+    second: Pixel Art Icons #1 (1x1M)_192
+  - first:
+      213: 7472396767417790871
+    second: Pixel Art Icons #1 (1x1M)_193
+  - first:
+      213: -5982186444530944921
+    second: Pixel Art Icons #1 (1x1M)_194
+  - first:
+      213: 5597700518160943899
+    second: Pixel Art Icons #1 (1x1M)_195
+  - first:
+      213: -8265773325986933829
+    second: Pixel Art Icons #1 (1x1M)_196
+  - first:
+      213: 5891865732321489067
+    second: Pixel Art Icons #1 (1x1M)_197
+  - first:
+      213: 699540119364724999
+    second: Pixel Art Icons #1 (1x1M)_198
+  - first:
+      213: -5997662327892235755
+    second: Pixel Art Icons #1 (1x1M)_199
+  - first:
+      213: -4797917542699552048
+    second: Pixel Art Icons #1 (1x1M)_200
+  - first:
+      213: -5573977177713661490
+    second: Pixel Art Icons #1 (1x1M)_201
+  - first:
+      213: 3428922250449846034
+    second: Pixel Art Icons #1 (1x1M)_202
+  - first:
+      213: 48700346558796879
+    second: Pixel Art Icons #1 (1x1M)_203
+  - first:
+      213: 1977293963348588609
+    second: Pixel Art Icons #1 (1x1M)_204
+  - first:
+      213: -3086154132002783814
+    second: Pixel Art Icons #1 (1x1M)_205
+  - first:
+      213: -8185790615683708973
+    second: Pixel Art Icons #1 (1x1M)_206
+  - first:
+      213: -4106532602706774613
+    second: Pixel Art Icons #1 (1x1M)_207
+  - first:
+      213: -8484643127208287610
+    second: Pixel Art Icons #1 (1x1M)_208
+  - first:
+      213: -9158132528150632714
+    second: Pixel Art Icons #1 (1x1M)_209
+  - first:
+      213: 334306131879533541
+    second: Pixel Art Icons #1 (1x1M)_210
+  - first:
+      213: -296753485539426917
+    second: Pixel Art Icons #1 (1x1M)_211
+  - first:
+      213: 4601219397157195151
+    second: Pixel Art Icons #1 (1x1M)_212
+  - first:
+      213: -6861216374310809914
+    second: Pixel Art Icons #1 (1x1M)_213
+  - first:
+      213: 5737034805581543435
+    second: Pixel Art Icons #1 (1x1M)_214
+  - first:
+      213: 3191863872397236802
+    second: Pixel Art Icons #1 (1x1M)_215
+  - first:
+      213: -5047524760446245971
+    second: Pixel Art Icons #1 (1x1M)_216
+  - first:
+      213: -8871043051089096985
+    second: Pixel Art Icons #1 (1x1M)_217
+  - first:
+      213: -6991182724662668936
+    second: Pixel Art Icons #1 (1x1M)_218
+  - first:
+      213: 216134139272669980
+    second: Pixel Art Icons #1 (1x1M)_219
+  - first:
+      213: 5015405574361641306
+    second: Pixel Art Icons #1 (1x1M)_220
+  - first:
+      213: 3229499821986494852
+    second: Pixel Art Icons #1 (1x1M)_221
+  - first:
+      213: -6615529003193029991
+    second: Pixel Art Icons #1 (1x1M)_222
+  - first:
+      213: 7147370369601578396
+    second: Pixel Art Icons #1 (1x1M)_223
+  - first:
+      213: 1874925552390074215
+    second: Pixel Art Icons #1 (1x1M)_224
+  - first:
+      213: 644996966433171674
+    second: Pixel Art Icons #1 (1x1M)_225
+  - first:
+      213: -3443067632737055501
+    second: Pixel Art Icons #1 (1x1M)_226
+  - first:
+      213: -6041086423332112833
+    second: Pixel Art Icons #1 (1x1M)_227
+  - first:
+      213: 4244892957395241411
+    second: Pixel Art Icons #1 (1x1M)_228
+  - first:
+      213: -395875209055635748
+    second: Pixel Art Icons #1 (1x1M)_229
+  - first:
+      213: -1578107299238135918
+    second: Pixel Art Icons #1 (1x1M)_230
+  - first:
+      213: 7550270560138499566
+    second: Pixel Art Icons #1 (1x1M)_231
+  - first:
+      213: 4596252467806734149
+    second: Pixel Art Icons #1 (1x1M)_232
+  - first:
+      213: -7400015427544019008
+    second: Pixel Art Icons #1 (1x1M)_233
+  - first:
+      213: 3950734091451607580
+    second: Pixel Art Icons #1 (1x1M)_234
+  - first:
+      213: -6858280498954130029
+    second: Pixel Art Icons #1 (1x1M)_235
+  - first:
+      213: -2513958800089863747
+    second: Pixel Art Icons #1 (1x1M)_236
+  - first:
+      213: 1828144766507835658
+    second: Pixel Art Icons #1 (1x1M)_237
+  - first:
+      213: 6560596550427524507
+    second: Pixel Art Icons #1 (1x1M)_238
+  - first:
+      213: -1578827239000576280
+    second: Pixel Art Icons #1 (1x1M)_239
+  - first:
+      213: 2508607479514777436
+    second: Pixel Art Icons #1 (1x1M)_240
+  - first:
+      213: -376733101413982474
+    second: Pixel Art Icons #1 (1x1M)_241
+  - first:
+      213: -881723336046525762
+    second: Pixel Art Icons #1 (1x1M)_242
+  - first:
+      213: 2759926751161136691
+    second: Pixel Art Icons #1 (1x1M)_243
+  - first:
+      213: -7402561198156583136
+    second: Pixel Art Icons #1 (1x1M)_244
+  - first:
+      213: -1599164716502405816
+    second: Pixel Art Icons #1 (1x1M)_245
+  - first:
+      213: -3452726214023271896
+    second: Pixel Art Icons #1 (1x1M)_246
+  - first:
+      213: 824038360612319879
+    second: Pixel Art Icons #1 (1x1M)_247
+  - first:
+      213: -8728018830056583103
+    second: Pixel Art Icons #1 (1x1M)_248
+  - first:
+      213: 8099732801487678442
+    second: Pixel Art Icons #1 (1x1M)_249
+  - first:
+      213: -1586734037746080018
+    second: Pixel Art Icons #1 (1x1M)_250
+  - first:
+      213: -4683948944890186366
+    second: Pixel Art Icons #1 (1x1M)_251
+  - first:
+      213: -7286334194019298747
+    second: Pixel Art Icons #1 (1x1M)_252
+  - first:
+      213: -4167935833177967866
+    second: Pixel Art Icons #1 (1x1M)_253
+  - first:
+      213: 5164022368133262548
+    second: Pixel Art Icons #1 (1x1M)_254
+  - first:
+      213: 7169603548382256171
+    second: Pixel Art Icons #1 (1x1M)_255
+  - first:
+      213: -3968647647032871016
+    second: Pixel Art Icons #1 (1x1M)_256
+  - first:
+      213: 408702140036825012
+    second: Pixel Art Icons #1 (1x1M)_257
+  - first:
+      213: 1737248289521811463
+    second: Pixel Art Icons #1 (1x1M)_258
+  - first:
+      213: -696656781453738223
+    second: Pixel Art Icons #1 (1x1M)_259
+  - first:
+      213: 2017759429401784684
+    second: Pixel Art Icons #1 (1x1M)_260
+  - first:
+      213: 5535576860738786550
+    second: Pixel Art Icons #1 (1x1M)_261
+  - first:
+      213: 7709710597538661005
+    second: Pixel Art Icons #1 (1x1M)_262
+  - first:
+      213: 8991361488340939104
+    second: Pixel Art Icons #1 (1x1M)_263
+  - first:
+      213: 7487150981854409402
+    second: Pixel Art Icons #1 (1x1M)_264
+  - first:
+      213: -7327267049855753164
+    second: Pixel Art Icons #1 (1x1M)_265
+  - first:
+      213: 6898046663542238437
+    second: Pixel Art Icons #1 (1x1M)_266
+  - first:
+      213: 3710781003366556675
+    second: Pixel Art Icons #1 (1x1M)_267
+  - first:
+      213: 4476644300705305336
+    second: Pixel Art Icons #1 (1x1M)_268
+  - first:
+      213: 1014607270992574696
+    second: Pixel Art Icons #1 (1x1M)_269
+  - first:
+      213: -6781460055167810129
+    second: Pixel Art Icons #1 (1x1M)_270
+  - first:
+      213: -8287141242934510154
+    second: Pixel Art Icons #1 (1x1M)_271
+  - first:
+      213: -6330987080864138777
+    second: Pixel Art Icons #1 (1x1M)_272
+  - first:
+      213: -687995505957880913
+    second: Pixel Art Icons #1 (1x1M)_273
+  - first:
+      213: -3974520590888899955
+    second: Pixel Art Icons #1 (1x1M)_274
+  - first:
+      213: -2026922805683962268
+    second: Pixel Art Icons #1 (1x1M)_275
+  - first:
+      213: 2873126158921592116
+    second: Pixel Art Icons #1 (1x1M)_276
+  - first:
+      213: 5453384931010706976
+    second: Pixel Art Icons #1 (1x1M)_277
+  - first:
+      213: -6454410906576396829
+    second: Pixel Art Icons #1 (1x1M)_278
+  - first:
+      213: 1381313012870733890
+    second: Pixel Art Icons #1 (1x1M)_279
+  - first:
+      213: 3923373579949908609
+    second: Pixel Art Icons #1 (1x1M)_280
+  - first:
+      213: -6408134832707103960
+    second: Pixel Art Icons #1 (1x1M)_281
+  - first:
+      213: 3686174351566261361
+    second: Pixel Art Icons #1 (1x1M)_282
+  - first:
+      213: 178373740490533887
+    second: Pixel Art Icons #1 (1x1M)_283
+  - first:
+      213: -5813675135031329485
+    second: Pixel Art Icons #1 (1x1M)_284
+  - first:
+      213: 620564098826393181
+    second: Pixel Art Icons #1 (1x1M)_285
+  - first:
+      213: -770866225606719823
+    second: Pixel Art Icons #1 (1x1M)_286
+  - first:
+      213: -4278832641087926749
+    second: Pixel Art Icons #1 (1x1M)_287
+  - first:
+      213: -6350813726482018969
+    second: Pixel Art Icons #1 (1x1M)_288
+  - first:
+      213: -2997914517917257286
+    second: Pixel Art Icons #1 (1x1M)_289
+  - first:
+      213: 6086015477465363334
+    second: Pixel Art Icons #1 (1x1M)_290
+  - first:
+      213: 7318926244989512818
+    second: Pixel Art Icons #1 (1x1M)_291
+  - first:
+      213: 4461110001364897823
+    second: Pixel Art Icons #1 (1x1M)_292
+  - first:
+      213: 1718379410517205940
+    second: Pixel Art Icons #1 (1x1M)_293
+  - first:
+      213: 6527021099020543020
+    second: Pixel Art Icons #1 (1x1M)_294
+  - first:
+      213: -189887138690631347
+    second: Pixel Art Icons #1 (1x1M)_295
+  - first:
+      213: -7413846468139517006
+    second: Pixel Art Icons #1 (1x1M)_296
+  - first:
+      213: -1347086100231242899
+    second: Pixel Art Icons #1 (1x1M)_297
+  - first:
+      213: 7958889481644099489
+    second: Pixel Art Icons #1 (1x1M)_298
+  - first:
+      213: -4185617059769949174
+    second: Pixel Art Icons #1 (1x1M)_299
+  - first:
+      213: 5117303646068077723
+    second: Pixel Art Icons #1 (1x1M)_300
+  - first:
+      213: 2072095563439862291
+    second: Pixel Art Icons #1 (1x1M)_301
+  - first:
+      213: 1011583590351023645
+    second: Pixel Art Icons #1 (1x1M)_302
+  - first:
+      213: 4386309824684593706
+    second: Pixel Art Icons #1 (1x1M)_303
+  - first:
+      213: -7360207293810951944
+    second: Pixel Art Icons #1 (1x1M)_304
+  - first:
+      213: -3536940478199573593
+    second: Pixel Art Icons #1 (1x1M)_305
+  - first:
+      213: 8182320377371164396
+    second: Pixel Art Icons #1 (1x1M)_306
+  - first:
+      213: 4894461654426127315
+    second: Pixel Art Icons #1 (1x1M)_307
+  - first:
+      213: -8813778244255139184
+    second: Pixel Art Icons #1 (1x1M)_308
+  - first:
+      213: 7869855638959407894
+    second: Pixel Art Icons #1 (1x1M)_309
+  - first:
+      213: 1399206943641616206
+    second: Pixel Art Icons #1 (1x1M)_310
+  - first:
+      213: -2079732099991467395
+    second: Pixel Art Icons #1 (1x1M)_311
+  - first:
+      213: -8727276632022254712
+    second: Pixel Art Icons #1 (1x1M)_312
+  - first:
+      213: 5075307438723070351
+    second: Pixel Art Icons #1 (1x1M)_313
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 469
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc285809bde657c0800000000000000
+      internalID: -4082814633200046907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 469
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d45287fb943b6e0800000000000000
+      internalID: -1823032337451627166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 469
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e83716f77c1f9fb0800000000000000
+      internalID: -4638957789612918558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 484
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2173615fccdd920800000000000000
+      internalID: 3016792678419862177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 469
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addefb35f0cedb450800000000000000
+      internalID: 6106296220358012378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 469
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e05c097032c0d520800000000000000
+      internalID: 2724891288004219104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 469
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6023c419b8530adc0800000000000000
+      internalID: -3629842426106203642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_7
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 469
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e3fbc8104f887c0800000000000000
+      internalID: -4068733975835754908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_8
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 474
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4352354665aa2a10800000000000000
+      internalID: 1885501252674147147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_9
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 481
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d02d9bcfa6f3cb50800000000000000
+      internalID: 6612399912805802201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 469
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4456d370e18f9c0800000000000000
+      internalID: -3893328861418142508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_11
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 468
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e31fde0699fe57b0800000000000000
+      internalID: -5233471294068026400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_12
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 470
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e909bcf5a52f5e50800000000000000
+      internalID: 6800195357192554981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_13
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 470
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7008793a07b2991c0800000000000000
+      internalID: -4496514990171783161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_14
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 470
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b1995b91a38f9f0800000000000000
+      internalID: -434533481945949421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_15
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 470
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433597022e9eba120800000000000000
+      internalID: 2426289981685846836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_16
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 471
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4815ed70cb4b2cc0800000000000000
+      internalID: -3734808175855724470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_17
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 469
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df174ef9878542470800000000000000
+      internalID: 8368911282663092733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 471
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150be17df9f4e87c0800000000000000
+      internalID: -4067225865541472175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_19
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 443
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595c2bc9f729d0b40800000000000000
+      internalID: 5408139804329297301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_20
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 444
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf9bfd1ad3214290800000000000000
+      internalID: -7908000050973007935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_21
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 446
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd7a0996fb9fd500800000000000000
+      internalID: 423228373427977682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_22
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 445
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef44b1e2095d9cb0800000000000000
+      internalID: -4855626954324029468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 463
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d20cb80d0fd1da0800000000000000
+      internalID: -5972352752334918324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_24
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 443
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7f123da62c07ef0800000000000000
+      internalID: -112376226619721797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_25
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 443
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f285310b79a94490800000000000000
+      internalID: -7761486137029983499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_26
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 444
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ef81d9fbeb12720800000000000000
+      internalID: 2819744571894333016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_27
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 446
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4a7ae87a0913340800000000000000
+      internalID: 4841810123727283387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_28
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 443
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a7a214cc9bf6700800000000000000
+      internalID: 535851167598148240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_29
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 443
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812c04d13e7e07750800000000000000
+      internalID: 6300790841325699608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_30
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 443
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999f611d1b8914520800000000000000
+      internalID: 2684594742374103449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_31
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 444
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29321c50b37b586a0800000000000000
+      internalID: -6447545827383499886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_32
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 443
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40f3a10e14bc33a0800000000000000
+      internalID: -6684269705955119026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_33
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 444
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf35bdc0ecbc7f7b0800000000000000
+      internalID: -5190455959681805317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_34
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 445
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a248251bc5ff480800000000000000
+      internalID: -8863263624978486673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_35
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 447
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2946c0fc2436bf30800000000000000
+      internalID: 4590914237773531437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 443
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8530349b6bb81b050800000000000000
+      internalID: 5814582210820506456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_37
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 445
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef5ce559bff02750800000000000000
+      internalID: 6278299052030058466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_38
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 418
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99d78c05e6948780800000000000000
+      internalID: -8681648271161566819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_39
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 418
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620345f882aab76b0800000000000000
+      internalID: -5297453445491183578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_40
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 418
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd58a1b3a9737750800000000000000
+      internalID: 6301514047588687350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_41
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 418
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e984470074b873aa0800000000000000
+      internalID: -6181318826476156770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_42
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 436
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a30a0a69221b4f50800000000000000
+      internalID: 6866602025938453412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_43
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 417
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11616e6aca78445d0800000000000000
+      internalID: -3079187069610355183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_44
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 418
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64f004b2c12f1ac0800000000000000
+      internalID: -3882347233642744722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_45
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 433
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821393f56aa2b75e0800000000000000
+      internalID: -1910886722838122200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_46
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 433
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c76833326af4ff30800000000000000
+      internalID: 4608583618379933639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_47
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 433
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5a047af0cac6af0800000000000000
+      internalID: -401757083512298031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_48
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 419
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4c41f19861e2760800000000000000
+      internalID: 7434904813023052991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_49
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 418
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443ec1e3f4f2c2850800000000000000
+      internalID: 6353505191703929668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_50
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 419
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef1250b085e675d0800000000000000
+      internalID: -3065010155502297118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_51
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 418
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd450f77ab1cdbbc0800000000000000
+      internalID: -3765640706791549733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_52
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 418
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a25c80808d033f20800000000000000
+      internalID: 3401076989158511266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_53
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 419
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f11a99e49086ad0800000000000000
+      internalID: -2708904942673780938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_54
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 418
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb143477d0797800800000000000000
+      internalID: 610643295155264446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_55
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 417
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8328ef84dd04a30800000000000000
+      internalID: 4197598158286633164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_56
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 417
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda28d2d7033bbf90800000000000000
+      internalID: -6936894692338947365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_57
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 426
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2112307ef8941210800000000000000
+      internalID: 1302834410788360494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_58
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 426
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f277ee49b6046990800000000000000
+      internalID: -7393777295273004296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_59
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 426
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76eba9f65b303fc0800000000000000
+      internalID: -3517246064234338693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_60
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 418
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f75e1d43d6fbd30800000000000000
+      internalID: 4449395030492544849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_61
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 420
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a563d00a63e3b30800000000000000
+      internalID: 4268909557838142060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_62
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 419
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00548e9c44106d460800000000000000
+      internalID: 7265996443765720320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_63
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 419
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af00804356a1763b0800000000000000
+      internalID: -5519413796352294662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_64
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 419
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fe7dd2228649d10800000000000000
+      internalID: 2131443019660390175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_65
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 393
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984e92133ab610bd0800000000000000
+      internalID: -2665731155777952631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_66
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 393
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc78319584f915370800000000000000
+      internalID: 8309597920556189647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_67
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 393
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b9d611ad5ddfaf0800000000000000
+      internalID: -360897262547788994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_68
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 393
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b82dc1075f5ba80800000000000000
+      internalID: -8451579263822165160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_69
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 393
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132fc3b7bb116c360800000000000000
+      internalID: 7189453352067723825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_70
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 391
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d421ceeb833f83060800000000000000
+      internalID: 6933559051383738957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_71
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 395
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0746ea6a660280750800000000000000
+      internalID: 6271298106368615536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_72
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 392
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15894e46f576ef630800000000000000
+      internalID: 3962718381544872017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_73
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 392
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a9f8bfe65145fe0800000000000000
+      internalID: -1201311634190001582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_74
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 392
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa61bc564b7cfc040800000000000000
+      internalID: 4670170916222342826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_75
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 391
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7401708def1d4c330800000000000000
+      internalID: 3730337283845853255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_76
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 391
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4314e7259e60eec0800000000000000
+      internalID: -3539707720214768819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_77
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 391
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612b265446e246140800000000000000
+      internalID: 4711942118332084758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_78
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 392
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d685afd6551a010800000000000000
+      internalID: 1198332906697158011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_79
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 395
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99cbe61c84dd92a0800000000000000
+      internalID: -6728988570076591714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_80
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 394
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f0cca1019a8d3f0800000000000000
+      internalID: -875764240889409698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_81
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 407
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6ce504b2f44ca00800000000000000
+      internalID: 775832082996709109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_82
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 407
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca13ae7fc7156350800000000000000
+      internalID: 6009235457746082496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_83
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 393
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f330b622007522160800000000000000
+      internalID: 6999252428976227135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_84
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 399
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b9456e1a205a930800000000000000
+      internalID: 4153729125696445283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_85
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 399
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5e8aa005dc44ac0800000000000000
+      internalID: -3871744035971865182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_86
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 391
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b82bcc54812f2ea0800000000000000
+      internalID: -5895456534828472143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_87
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 391
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b58246a6e392b0d0800000000000000
+      internalID: -3408499349124905545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_88
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 368
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefe2f114de088440800000000000000
+      internalID: 4938213295408738286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_89
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 368
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d1154e0697a06c0800000000000000
+      internalID: -4176392247378371189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_90
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 365
+        width: 4
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d6d109c5bb24e70800000000000000
+      internalID: 9098040203471056226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_91
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 366
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508e3d3c1df783600800000000000000
+      internalID: 448248701833701381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_92
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 365
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f5c7115eceeaf10800000000000000
+      internalID: 2283022529708449673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_93
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 365
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133642d3b5b363150800000000000000
+      internalID: 5851930028868395825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_94
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 369
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa6a0b24d1145760800000000000000
+      internalID: 7445595686903114488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_95
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 368
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ea65ac8a7e39ec0800000000000000
+      internalID: -3561248168184729981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_96
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 340
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742f778bcb2a5efb0800000000000000
+      internalID: -4619106911366155705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_97
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 365
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c0f395cfa480df0800000000000000
+      internalID: -213838534610580418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_98
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 366
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98e15fa8b0b038b0800000000000000
+      internalID: -5174441664586848101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_99
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 365
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a989d4dc76e49c20800000000000000
+      internalID: 3212445858043365794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_100
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 365
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347ff924aaaf0cde0800000000000000
+      internalID: -1314775482023020733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_101
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 365
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3a8d7302ed58d60800000000000000
+      internalID: 7891958151993926629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_102
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 365
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f426abba11c2c10800000000000000
+      internalID: 2030016961301335936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_103
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 365
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f3ac9e3df6893a0800000000000000
+      internalID: -6658449093116149944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_104
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 366
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e92c10fd0a583c0800000000000000
+      internalID: -4357900184743404029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_105
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 365
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b45ff21a4eb6a440800000000000000
+      internalID: 4946850466068649142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_106
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 369
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339e1679092d18720800000000000000
+      internalID: 2846787957931764019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_107
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 339
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430f52193f0555640800000000000000
+      internalID: 5068045962717818932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_108
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 339
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d09987474b68fd0800000000000000
+      internalID: -2339984544039891629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_109
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 339
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a03e4b11c691320800000000000000
+      internalID: 2529171489050266249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_110
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 339
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05bb9763488e4830800000000000000
+      internalID: 4057330137389839630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_111
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 314
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c8e732b95b9f9e0800000000000000
+      internalID: -1587037715751334776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_112
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 313
+        width: 13
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e8228388218fe20800000000000000
+      internalID: 3384475496235568691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_113
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 339
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e82d59a8b5340c0800000000000000
+      internalID: -4592726544210555317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_114
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 346
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ca7b421bbabb590800000000000000
+      internalID: -7657337964099818353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_115
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 339
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7912a44fdac6dfa60800000000000000
+      internalID: 7709437631511798167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_116
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 346
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa4bc86b7a73a110800000000000000
+      internalID: 1270994190306331391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_117
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 340
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61807c60efbf64680800000000000000
+      internalID: -8771046155803490282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_118
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 341
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfaf02555c43ba810800000000000000
+      internalID: 1777572500069219067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_119
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 340
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e38f39f9bc0e8a0800000000000000
+      internalID: -6277793994311713171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_120
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 340
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334ada6d5f6e693a0800000000000000
+      internalID: -6658881055477619661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_121
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 313
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d56dbf24dec21b0800000000000000
+      internalID: -5679904158072283885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_122
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 313
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b18bc998e217cab0800000000000000
+      internalID: -4987997272067571280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_123
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 313
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb89eba9d818e230800000000000000
+      internalID: 3668209219664448460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_124
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 313
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425dbd16e3b94c9a0800000000000000
+      internalID: -6213670893632367324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_125
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 313
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60807e93edc82e10800000000000000
+      internalID: 2173213197705707627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_126
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 313
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27507c6b8e1867020800000000000000
+      internalID: 2339199892964443506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_127
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 313
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd589e59ae3bdf0f0800000000000000
+      internalID: -1081510515380222497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_128
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 313
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec167d0064b82610800000000000000
+      internalID: 1596724392538545391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_129
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 320
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb43cb3964140db0800000000000000
+      internalID: -4826710458427552780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_130
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c947f3fd286abe40800000000000000
+      internalID: 5672961227202447816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_131
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 324
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02f88f16c38d26d0800000000000000
+      internalID: -3013607688685161970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_132
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 324
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53550aa4d66a39340800000000000000
+      internalID: 4869418610451305781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_133
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 314
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f065522deabd7a6b0800000000000000
+      internalID: -5285014093799533041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_134
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 314
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2193963977a510700800000000000000
+      internalID: 504784102862960914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_135
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 317
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa5bce852f11eaa0800000000000000
+      internalID: -6133586971331962207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_136
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 316
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f28da27a665a6a70800000000000000
+      internalID: 8820957835349033712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_137
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 314
+        width: 67
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3949d6306ec9e90800000000000000
+      internalID: -7017481216952331317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_138
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 313
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf204d96634ff3a0800000000000000
+      internalID: -6629506018462126117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_139
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 313
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8588f3bc95b60a820800000000000000
+      internalID: 2927457791197022296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_140
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 287
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309fe397533fc9e30800000000000000
+      internalID: 4511748337711380739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_141
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 287
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769d012c235240a00800000000000000
+      internalID: 721742740220598631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_142
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 287
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee47a81226a24ab0800000000000000
+      internalID: -5025271568819335452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_143
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 287
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769a86cb21955e230800000000000000
+      internalID: 3667435408568396135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_144
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 287
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442a4d71d2e6b7510800000000000000
+      internalID: 1547952036884292164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_145
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 287
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe482307226185050800000000000000
+      internalID: 5789401658151830767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_146
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 287
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb823088f8e1f7e0800000000000000
+      internalID: -1733348227560600603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_147
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 287
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ca0ad6f30220380800000000000000
+      internalID: -9006600847993295830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_148
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 287
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f870d8dbca9b470800000000000000
+      internalID: 8410943709205991301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_149
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 288
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0f401d79673c4c0800000000000000
+      internalID: -4268437627398197008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_150
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 289
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52ee57e09701bb70800000000000000
+      internalID: 8912913456481362527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_151
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 296
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5def7711f141d40800000000000000
+      internalID: 5554098400342758878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_152
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 288
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c11a7b85315edb0800000000000000
+      internalID: -4763379759115592607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_153
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 261
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14835770e06f44e00800000000000000
+      internalID: 1028217155062413377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_154
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 261
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6cace8000c4c4e0800000000000000
+      internalID: -1962232428998506842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_155
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 261
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d3f6c3483e670f0800000000000000
+      internalID: -1119457300265878236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_156
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 261
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d93639c2de1002c0800000000000000
+      internalID: -4467536939683792432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_157
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 261
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9725cd99cd6ec1e0800000000000000
+      internalID: -2175680857270573155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_158
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 261
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be46c6f946b6015d0800000000000000
+      internalID: -3093854864087948053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_159
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 261
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff9025befef7c180800000000000000
+      internalID: -9095020552537464841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_160
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 261
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6cd09b024f7fa30800000000000000
+      internalID: 4249133194828170997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_161
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 261
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c560dff771d2eb50800000000000000
+      internalID: 6621084715511211465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_162
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 263
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ec09e95ba5b4570800000000000000
+      internalID: 8451948861786738177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_163
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 235
+        width: 47
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9473115b223ba20800000000000000
+      internalID: 3076841131497441782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_164
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 235
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40704b483d81e39f0800000000000000
+      internalID: -486924412965878012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_165
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 235
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03fe3844d9a990a0800000000000000
+      internalID: -6874276626994105588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_166
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 235
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3ee86e7994d05a0800000000000000
+      internalID: -6553500965997190159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_167
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 235
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2555ea0d47e025d80800000000000000
+      internalID: -8263526471391357614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_168
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 235
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e124d00c50158e0800000000000000
+      internalID: -1706576461382410608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_169
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 235
+        width: 47
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d392f9369288af0800000000000000
+      internalID: -394019459546137232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_170
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 235
+        width: 70
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d0551cb4c6027c0800000000000000
+      internalID: -4098156588285227679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_171
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 235
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d28d1ac37f978d50800000000000000
+      internalID: 6739530687044223697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_172
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 209
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969140137fb2b90a0800000000000000
+      internalID: -6873852065571661463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_173
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 210
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07dc9af5c7329640800000000000000
+      internalID: 5085188252707378955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_174
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 211
+        width: 46
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa3bec962e4e2030800000000000000
+      internalID: 3471798290497616634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_175
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 209
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1421e810903f5ad30800000000000000
+      internalID: 4442223827477205569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_176
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 209
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a62d4b38ab7162e0800000000000000
+      internalID: -2134288785917270368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_177
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 209
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967a90d10ca058a60800000000000000
+      internalID: 7675552960160049001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_178
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 212
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bf64f8befe09b60800000000000000
+      internalID: 7750958753704770404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_179
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 212
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd8a52c99ff2c6f0800000000000000
+      internalID: -665688759041618501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_180
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 213
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cf8f1f6f7d4a9e0800000000000000
+      internalID: -1610925311070241742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_181
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 211
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75aa2dd45ac3b190800000000000000
+      internalID: -7947786451542170244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_182
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 213
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3367d004b94d09ef0800000000000000
+      internalID: -103349028169877965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_183
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 209
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d0968139fbda110800000000000000
+      internalID: 1273884908106353925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_184
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 212
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2f93a985ecc06f0800000000000000
+      internalID: -716971360718818637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_185
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 185
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2684e2c33237e200800000000000000
+      internalID: 209191105590494767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_186
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 185
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fa5f58c1a5bc040800000000000000
+      internalID: 4668924517252706093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_187
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 184
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b361ba135ecd65340800000000000000
+      internalID: 4852308525477205563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_188
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 184
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9548120f62074fb10800000000000000
+      internalID: 2014358245881250905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_189
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 185
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc101adddf8cbb120800000000000000
+      internalID: 2430757416567112139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_190
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 184
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b948f9b41f0833e40800000000000000
+      internalID: 5634989332614841499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_191
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 185
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb797886c65f8580800000000000000
+      internalID: -8822737734302336058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_192
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 185
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b031262a029237920800000000000000
+      internalID: 2986776198016799499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_193
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 184
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791f6bef44943b760800000000000000
+      internalID: 7472396767417790871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_194
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 183
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7647399af110bfca0800000000000000
+      internalID: -5982186444530944921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_195
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 184
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bc000a6f60fad40800000000000000
+      internalID: 5597700518160943899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_196
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 187
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb356a634f21a4d80800000000000000
+      internalID: -8265773325986933829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_197
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 186
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0b157caac14c150800000000000000
+      internalID: 5891865732321489067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_198
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 184
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7096ed0480445b900800000000000000
+      internalID: 699540119364724999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_199
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 183
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51aad37c3e504cca0800000000000000
+      internalID: -5997662327892235755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_200
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 185
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d237c55a6f5a6db0800000000000000
+      internalID: -4797917542699552048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_201
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 183
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec92e300a4145a2b0800000000000000
+      internalID: -5573977177713661490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_202
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 184
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ffe7c9e9af59f20800000000000000
+      internalID: 3428922250449846034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_203
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 159
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44531905b40da000800000000000000
+      internalID: 48700346558796879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_204
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 159
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148baed2262c07b10800000000000000
+      internalID: 1977293963348588609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_205
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 157
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdbed70b27cb25d0800000000000000
+      internalID: -3086154132002783814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_206
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 158
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d742722eca366e80800000000000000
+      internalID: -8185790615683708973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_207
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 158
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba53a1dea5aa207c0800000000000000
+      internalID: -4106532602706774613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_208
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 157
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6826ac4870e704a80800000000000000
+      internalID: -8484643127208287610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_209
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 161
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6a1adccf6c7e080800000000000000
+      internalID: -9158132528150632714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_210
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 159
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb1aecd7a1b3a400800000000000000
+      internalID: 334306131879533541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_211
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 159
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d3094f648b1ebf0800000000000000
+      internalID: -296753485539426917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_212
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 158
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d0135d9a0dadf30800000000000000
+      internalID: 4601219397157195151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_213
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 157
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce4c125f0018c0a0800000000000000
+      internalID: -6861216374310809914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_214
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 156
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b087db272ca0e9f40800000000000000
+      internalID: 5737034805581543435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_215
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 162
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ad3add747cb4c20800000000000000
+      internalID: 3191863872397236802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_216
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 157
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3ec9a29f693f9b0800000000000000
+      internalID: -5047524760446245971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_217
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 158
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee03a88859b3e480800000000000000
+      internalID: -8871043051089096985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_218
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 157
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87152a05a545afe90800000000000000
+      internalID: -6991182724662668936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_219
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 161
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bae23cadcdff200800000000000000
+      internalID: 216134139272669980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_220
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51f6501ccc4a9540800000000000000
+      internalID: 5015405574361641306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_221
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 134
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48931bb3afc71dc20800000000000000
+      internalID: 3229499821986494852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_222
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 132
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99aa2631c6be034a0800000000000000
+      internalID: -6615529003193029991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_223
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 132
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9521469b7f803360800000000000000
+      internalID: 7147370369601578396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_224
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 133
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f638a2bd2150a10800000000000000
+      internalID: 1874925552390074215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_225
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 131
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad82479d25d73f800800000000000000
+      internalID: 644996966433171674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_226
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 131
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc001dea34c730d0800000000000000
+      internalID: -3443067632737055501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_227
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 133
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36badfa7efb92ca0800000000000000
+      internalID: -6041086423332112833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_228
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 132
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9c91387a3e8ea30800000000000000
+      internalID: 4244892957395241411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_229
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 131
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6fad44891918af0800000000000000
+      internalID: -395875209055635748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_230
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 135
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297b573c5cf691ae0800000000000000
+      internalID: -1578107299238135918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_231
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 132
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee515274213f7c860800000000000000
+      internalID: 7550270560138499566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_232
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 132
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54702a9744b29cf30800000000000000
+      internalID: 4596252467806734149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_233
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 133
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf04d4fc2ddd4990800000000000000
+      internalID: -7400015427544019008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_234
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 133
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1aaffa69b3d3d630800000000000000
+      internalID: 3950734091451607580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_235
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 133
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39da9d1193e72d0a0800000000000000
+      internalID: -6858280498954130029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_236
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 132
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db92da47acf9c1dd0800000000000000
+      internalID: -2513958800089863747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_237
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 134
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0160bdaaffde5910800000000000000
+      internalID: 1828144766507835658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_238
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 105
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9db2e69dcbeb0b50800000000000000
+      internalID: 6560596550427524507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_239
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 106
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eee8a9bdf0e61ae0800000000000000
+      internalID: -1578827239000576280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_240
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 106
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57cd51263d50d220800000000000000
+      internalID: 2508607479514777436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_241
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 106
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe96138d3395caf0800000000000000
+      internalID: -376733101413982474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_242
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 106
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb246c42c4d73c3f0800000000000000
+      internalID: -881723336046525762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_243
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 105
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336be09e1ca3d4620800000000000000
+      internalID: 2759926751161136691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_244
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 107
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f69cb8fc1d44990800000000000000
+      internalID: -7402561198156583136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_245
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 107
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d298fb920aec9e0800000000000000
+      internalID: -1599164716502405816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_246
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 107
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82aa67a3dc37510d0800000000000000
+      internalID: -3452726214023271896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_247
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 109
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782b795e5829f6b00800000000000000
+      internalID: 824038360612319879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_248
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 105
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1409e89fd19dfd680800000000000000
+      internalID: -8728018830056583103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_249
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 105
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeba0489118086070800000000000000
+      internalID: 8099732801487678442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_250
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 107
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6af1facc9caf9e0800000000000000
+      internalID: -1586734037746080018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_251
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 105
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28531c150454ffeb0800000000000000
+      internalID: -4683948944890186366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_252
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 106
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54292bab7adb1ea90800000000000000
+      internalID: -7286334194019298747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_253
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 109
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6033ec041748826c0800000000000000
+      internalID: -4167935833177967866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_254
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 105
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc21c0dbfa4aa740800000000000000
+      internalID: 5164022368133262548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_255
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 106
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c54b9e07c8f7360800000000000000
+      internalID: 7169603548382256171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_256
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 79
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8977ae7edf78ce8c0800000000000000
+      internalID: -3968647647032871016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_257
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 79
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf36d35e600ca500800000000000000
+      internalID: 408702140036825012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_258
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 79
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7004a9f6d12fb1810800000000000000
+      internalID: 1737248289521811463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_259
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 79
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f351b295af456f0800000000000000
+      internalID: -696656781453738223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_260
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 79
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6130bfa285800c10800000000000000
+      internalID: 2017759429401784684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_261
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 80
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4153b73d152dc40800000000000000
+      internalID: 5535576860738786550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_262
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 79
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d824b5fc0f46efa60800000000000000
+      internalID: 7709710597538661005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_263
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 78
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06170b7a2abb7cc70800000000000000
+      internalID: 8991361488340939104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_264
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 81
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2362d3624b7e760800000000000000
+      internalID: 7487150981854409402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_265
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 78
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4346cee8071505a90800000000000000
+      internalID: -7327267049855753164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_266
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 80
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ece080a4e8cabf50800000000000000
+      internalID: 6898046663542238437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_267
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 79
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3046ee879a75f7330800000000000000
+      internalID: 3710781003366556675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_268
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 80
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f21151f54c302e30800000000000000
+      internalID: 4476644300705305336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_269
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 80
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e87a06ffeb941e00800000000000000
+      internalID: 1014607270992574696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_270
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 80
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5c831720a63e1a0800000000000000
+      internalID: -6781460055167810129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_271
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 79
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd366b52f82efc80800000000000000
+      internalID: -8287141242934510154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_272
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 83
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9718ffac0d328a0800000000000000
+      internalID: -6330987080864138777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_273
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 52
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabb0548bbfb376f0800000000000000
+      internalID: -687995505957880913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_274
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 55
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a679b949aa7d8c0800000000000000
+      internalID: -3974520590888899955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_275
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 53
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46eb114827ceed3e0800000000000000
+      internalID: -2026922805683962268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_276
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 59
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d6761e4056fd720800000000000000
+      internalID: 2873126158921592116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_277
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 53
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e7c5493b05eab40800000000000000
+      internalID: 5453384931010706976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_278
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 53
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed5b173a735d66a0800000000000000
+      internalID: -6454410906576396829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_279
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 58
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240e8cfddd86b2310800000000000000
+      internalID: 1381313012870733890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_280
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 59
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182211aeb7f927630800000000000000
+      internalID: 3923373579949908609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_281
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 55
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8239fa7425bb117a0800000000000000
+      internalID: -6408134832707103960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_282
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 57
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c4345ea0ce72330800000000000000
+      internalID: 3686174351566261361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_283
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 60
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb223fc8f5b97200800000000000000
+      internalID: 178373740490533887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_284
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 56
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33dbfe0544da15fa0800000000000000
+      internalID: -5813675135031329485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_285
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 56
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5658ee82cfac9800800000000000000
+      internalID: 620564098826393181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_286
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 58
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b68d5580455d45f0800000000000000
+      internalID: -770866225606719823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_287
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 59
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e8b9612688e94c0800000000000000
+      internalID: -4278832641087926749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_288
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 65
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d4d5650906dd7a0800000000000000
+      internalID: -6350813726482018969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_289
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 56
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab13e8c21a44566d0800000000000000
+      internalID: -2997914517917257286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_290
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 53
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6833ad7e4ded57450800000000000000
+      internalID: 6086015477465363334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_291
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 57
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c22e974ac029560800000000000000
+      internalID: 7318926244989512818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_292
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 31
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f101c4709eb09ed30800000000000000
+      internalID: 4461110001364897823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_293
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 31
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3293138f8e8d710800000000000000
+      internalID: 1718379410517205940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_294
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 31
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c246990ab13a49a50800000000000000
+      internalID: 6527021099020543020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_295
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 31
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49fde647a26d5df0800000000000000
+      internalID: -189887138690631347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_296
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 30
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb724fdae9bc1990800000000000000
+      internalID: -7413846468139517006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_297
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 27
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bb9d934503e4de0800000000000000
+      internalID: -1347086100231242899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_298
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a74df7c0d7a37e60800000000000000
+      internalID: 7958889481644099489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_299
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 27
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04e892e573b9e5c0800000000000000
+      internalID: -4185617059769949174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_300
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 27
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94f2bfad80540740800000000000000
+      internalID: 5117303646068077723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_301
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 27
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312fe7fbfef81cc10800000000000000
+      internalID: 2072095563439862291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_302
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 27
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1eac737aedd90e00800000000000000
+      internalID: 1011583590351023645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_303
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 27
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22912fbb8d4fdc30800000000000000
+      internalID: 4386309824684593706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_304
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 27
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8b82b567a4bd990800000000000000
+      internalID: -7360207293810951944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_305
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3d635ef534aeec0800000000000000
+      internalID: -3536940478199573593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_306
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 27
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceef5ab08017d8170800000000000000
+      internalID: 8182320377371164396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_307
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 27
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db07d651fe9ce340800000000000000
+      internalID: 4894461654426127315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_308
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 27
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a3b1e526b2fa580800000000000000
+      internalID: -8813778244255139184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_309
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 27
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613c7c1e108573d60800000000000000
+      internalID: 7869855638959407894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_310
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 27
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fb40b4d4bfa6310800000000000000
+      internalID: 1399206943641616206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_311
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 27
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a08088cae4323e0800000000000000
+      internalID: -2079732099991467395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_312
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 27
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bfebb642c72e680800000000000000
+      internalID: -8727276632022254712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Icons #1 (1x1M)_313
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 27
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f897cf2b93d1f6640800000000000000
+      internalID: 5075307438723070351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
